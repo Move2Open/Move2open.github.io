@@ -8,7 +8,7 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-NoDeriv
 
 ## Team
 
-|[![Shivam mishra Logo](https://user-images.githubusercontent.com/46820509/76170758-ed3)](https://alphaqx.github.io/shivam)|
+|[![Shivam mishra Logo](https://avatars1.githubusercontent.com/u/46820509?s=50)](https://alphaqx.github.io/shivam)|
 | :-: |
 | [Shivam Mishra](https://github.com/AlphaQx) |
 
