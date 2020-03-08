@@ -14,12 +14,6 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-NoDeriv
 
 
 
-|[![Mohammad Abdullah Logo](https://avatars3.githubusercontent.com/u/21259210?s=50)](https://github.com/phpjungle0101)|
-| :-: |
-| [Mohammad Abdullah](https://github.com/phpjungle0101) |
-
-
-
 
 
 
